@@ -1,1 +1,2 @@
-# php-app-elb-for-jenkins
+# php-app-for-jenkins
+Sample PHP Application
